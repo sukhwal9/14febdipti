@@ -140,7 +140,8 @@ body{
                     opacity: 0;
                 } 
                 }*/
-                @keyframes untoldcoding5 0%{
+               @keyframes untoldcodings {
+    0%{
         top: -3rem;
         opacity: 0;
     }   
